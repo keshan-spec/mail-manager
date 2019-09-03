@@ -7,7 +7,6 @@ This is a simple script that managers your mail. Some if its functions include:
 2. Sends mails
 3. Show last E-mail
 4. Show all drafts
-5. Edit drafts
 ```
 
 ## Usage
